@@ -1,2 +1,1 @@
-print('Welcome back')
-print('Welcome forward')
+print('Welcome Forward')
